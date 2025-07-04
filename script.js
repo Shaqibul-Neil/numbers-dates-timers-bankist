@@ -231,9 +231,9 @@ createUserName(accounts);
 let currentAccount;
 
 //fake alwz logged in
-currentAccount = account1;
-containerApp.style.opacity = 1;
-updateUI(currentAccount);
+//currentAccount = account1;
+//containerApp.style.opacity = 1;
+//updateUI(currentAccount);
 
 btnLogin.addEventListener('click', function (event) {
   // Prevent form from submitting
